@@ -18,6 +18,4 @@ streamlit run app.py
 
 ## Demo
 
-![](demo.gif)
-
-# [Link](https://share.streamlit.io/lin-justin/humor-app/main/app.py)
+# [Link](https://khanhphantt-face-mask-detection-app-8w33p9.streamlitapp.com/)
